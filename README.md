@@ -1,4 +1,4 @@
-# Limits-to-human-life-span-through-extreme-value-theory
+# Limits-to-Human-Life-Span-through-Extreme-Value-Theory
 
 # Author Contributions Checklist Form
 
